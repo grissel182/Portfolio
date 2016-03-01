@@ -1,0 +1,169 @@
+
+.text-white{
+	color: white;
+}
+.btn-white{
+	border-radius: 1em;
+	text-align: center;
+}
+.mt-5{
+	margin-top: 5%;
+}
+.mb-5{
+	margin-bottom: 5%;
+}
+/*secciones 1*/
+
+.pb-5{
+	padding-bottom: 5%;
+}
+/*imagenes */
+.img-port{
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+.sinpadding [class*="col-"] {
+    padding: 0;
+}
+.text-black{
+	color: black;
+}
+.bg-black{
+	background-color: black;
+}
+.hr-5{
+	border: 2px solid #FF6347;
+	width: 5%;
+}
+.mg-20{
+	margin: 0 10%;
+}
+.mt-2{
+	margin-top: 2%;
+}
+.no-line{
+	text-decoration: none;
+}
+.color{
+	color: #FF6347;
+}
+.info {
+ display: none;
+ position: absolute;
+ bottom: 0;
+ z-index: 10;
+ background: rgba(255, 99, 71, 0.7);
+ width: 100%;
+ color: #FFF;
+ padding-top: 17.2%;
+ background-size: 100%;
+ height: 100%
+}
+
+.txt:hover .info {
+display: block;
+}
+
+
+
+
+/* .........Arreglo.de.Nello...........*/
+.ImgBack1 {
+	background-image: url(../img/header.jpg);
+	color: white;
+	background-position: center;
+	background-size: cover;
+}
+.Ul2 {
+	text-align: right;
+}
+li {
+	display: inline-block;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+nav a#pull {
+	display: none;
+}
+.BackFix {
+	background-color: rgba(215, 57, 41, 0.5);
+	position: fixed;
+	width: 100%;
+	height: 6%;
+}
+h1 {
+	font-size: 4em;
+}
+.H1Margin {
+	margin-top: 20%;
+	margin-bottom: 20%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+.HR2 {
+	width: 5%;
+	border: 2px solid #FF6347;
+}
+.P1 {
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	margin: 0% 10%;
+}
+button {
+	color: white;
+	background-color: #FF6347;
+	width: 150px;
+	height: 50px;
+	border-radius: 50px;
+	margin-bottom: 200px;
+	border:none !important;
+}
+.Back2 {
+	text-align: center;
+	background-color: #FF6347;
+	margin-bottom: 60px;
+	padding-top: 55px;
+	padding-bottom: 60px;
+}
+.HR3 {
+	width: 5%;
+	border: 2px solid white;
+}
+.TextMosaico {
+	color: #2F4F4F;
+	padding: 10px;
+}
+i {
+	color: #FF6347;
+}
+
+
+
+
+/*-------------menu*/
+.right{
+	float: right;
+}
+.bco{
+	color: white !important;
+}
+.trans{
+	background-color: rgba(215, 57, 41, 0.5) !important;
+	border: none !important;
+
+
+}
+
+.icon-bar{
+	background-color: white !important;
+}
+.fix{
+	position: fixed !important;
+}
+.pami{
+	margin-left: 2%;
+}
